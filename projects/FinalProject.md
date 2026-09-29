@@ -2,15 +2,15 @@
 
 The final project should represent significant original work applying data science techniques to an interesting problem. Final projects are individual attainments, but you should definitely talk to your instructors and classmates about them.
 
-Address a data­-related problem in your professional field or in a field you're interested in. Pick a subject that you're passionate about; if you're strongly interested in the subject matter it'll be more fun for you and you'll probably produce a better project!
+Address a data-related problem in your professional field or in a field you're interested in. Pick a subject that you're passionate about; if you're strongly interested in the subject matter it'll be more fun for you and you'll probably produce a better project!
 
 To stimulate your thinking, there is a [compendium](data_sources.md) of some public data sources. Use public data is the most common choice. If you have access to private data, that's also an option, though you'll have to be careful about what results you can release. Competing in a Kaggle competition is a project option as well.
 
 The final project should include at least the following components:
 
- * Gather, preprocess and visualize one or more datasets using the ACES framework. What can you learn from a high­ level analysis?
- * Apply appropriate techniques: regression/classification algorithms, evaluation, cross-­validation, etc., and report your results.
- * Consider how you could implement what you’ve done in a production system. Where would the data live? How would it represented? How would end ­users access it? What parts would be streaming vs. batch?
+ * Gather, preprocess and visualize one or more datasets using the ACES framework. What can you learn from a high level analysis?
+ * Apply appropriate techniques: regression/classification algorithms, evaluation, cross-validation, etc., and report your results.
+ * Consider how you could implement what you’ve done in a production system. Where would the data live? How would it represented? How would end users access it? What parts would be streaming vs. batch?
 
 Optionally, it would be exciting to actually implement the system based on your work, and to the degree this is possible within the time frame of the course, it is certainly encouraged!
 
@@ -34,11 +34,11 @@ What to cover in your paper:
      * What did you learn from the initial exploration phase?
  * Describe the statistical methods you used, and perhaps others you considered but did not use, and how you decided what to use.
  * What business applications do your findings have?
- * Describe the implementation plan in detail from the ingesting of data to how end ­users access it.
+ * Describe the implementation plan in detail from the ingesting of data to how end users access it.
 
 Your paper should demonstrate thorough understanding of statistical techniques, data management, and the application of these in programming. It should communicate clearly to a reasonably technical audience.
 
-In the final week of class, you will give a 5-7 minute presentation summarizing your project. The presentation should target a non­-technical audience - it's a chance to practice the highly sought-after communication skills that data scientists need. It will be appropriate to have an accompanying slide deck.
+In the final week of class, you will give a 5-7 minute presentation summarizing your project. The presentation should target a non-technical audience - it's a chance to practice the highly sought-after communication skills that data scientists need. It will be appropriate to have an accompanying slide deck.
 
 What to cover in your presentation:
 
@@ -49,7 +49,7 @@ What to cover in your presentation:
  * Your findings, and how they're actionable
  * Your implementation plan, and any hurdles
 
-Your presentation should be engaging, clear, and informative, describing the project, approach, and conclusions, and be suitable for a non­-technical audience.
+Your presentation should be engaging, clear, and informative, describing the project, approach, and conclusions, and be suitable for a non-technical audience.
 
 How do you know you're done?
 
